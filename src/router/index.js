@@ -6,6 +6,7 @@ import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 // 2、创建路由对象
 const routes = [
+  
  
 ]
 
