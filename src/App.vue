@@ -1,15 +1,16 @@
 <template>
  <div id="app">
-   <h2>项目初始化</h2> 
+    <tab-bar-init></tab-bar-init>
   </div>
-  
 </template>
 
 <script>
+import TabBarInit from "components/content/TabBarInit";
+
 export default {
   name: 'App',
   components: {
-  
+    TabBarInit
   }
 }
 </script>
